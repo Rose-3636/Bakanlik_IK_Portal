@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|c:\\users\\gul.dogan\\source\\repos\\modernikportal.api\\modernikportal.api\\controllers\\izincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|solutionrelative:modernikportal.api\\controllers\\izincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|c:\\users\\gul.dogan\\source\\repos\\modernikportal.api\\modernikportal.api\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|solutionrelative:modernikportal.api\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|c:\\users\\gul.dogan\\source\\repos\\modernikportal.api\\modernikportal.api\\models\\izintalebi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|solutionrelative:modernikportal.api\\models\\izintalebi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|c:\\users\\gul.dogan\\source\\repos\\modernikportal.api\\modernikportal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|solutionrelative:modernikportal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|c:\\users\\gul.dogan\\source\\repos\\modernikportal.api\\modernikportal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|solutionrelative:modernikportal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|c:\\users\\gul.dogan\\source\\repos\\modernikportal.api\\modernikportal.api\\modernikportal.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|solutionrelative:modernikportal.api\\modernikportal.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|c:\\users\\gul.dogan\\source\\repos\\modernikportal.api\\modernikportal.api\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|solutionrelative:modernikportal.api\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|c:\\users\\gul.dogan\\source\\repos\\modernikportal.api\\modernikportal.api\\controllers\\puantajcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|solutionrelative:modernikportal.api\\controllers\\puantajcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|c:\\users\\gul.dogan\\source\\repos\\modernikportal.api\\modernikportal.api\\models\\puantajkaydi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|solutionrelative:modernikportal.api\\models\\puantajkaydi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|c:\\users\\gul.dogan\\source\\repos\\modernikportal.api\\modernikportal.api\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|solutionrelative:modernikportal.api\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|c:\\users\\gul.dogan\\source\\repos\\modernikportal.api\\modernikportal.api\\models\\egitim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|solutionrelative:modernikportal.api\\models\\egitim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|c:\\users\\gul.dogan\\source\\repos\\modernikportal.api\\modernikportal.api\\models\\pozisyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|solutionrelative:modernikportal.api\\models\\pozisyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|c:\\users\\gul.dogan\\source\\repos\\modernikportal.api\\modernikportal.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B81DCD3C-4C5B-5CC4-A022-821AEC67A427}|ModernIKPortal.API\\ModernIKPortal.API.csproj|solutionrelative:modernikportal.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IzinController.cs",
+              "DocumentMoniker": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Controllers\\IzinController.cs",
+              "RelativeDocumentMoniker": "ModernIKPortal.API\\Controllers\\IzinController.cs",
+              "ToolTip": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Controllers\\IzinController.cs",
+              "RelativeToolTip": "ModernIKPortal.API\\Controllers\\IzinController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvzQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T11:11:50.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IzinTalebi.cs",
+              "DocumentMoniker": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Models\\IzinTalebi.cs",
+              "RelativeDocumentMoniker": "ModernIKPortal.API\\Models\\IzinTalebi.cs",
+              "ToolTip": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Models\\IzinTalebi.cs",
+              "RelativeToolTip": "ModernIKPortal.API\\Models\\IzinTalebi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T11:05:08.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonelController.cs",
+              "DocumentMoniker": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Controllers\\PersonelController.cs",
+              "RelativeDocumentMoniker": "ModernIKPortal.API\\Controllers\\PersonelController.cs",
+              "ToolTip": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Controllers\\PersonelController.cs",
+              "RelativeToolTip": "ModernIKPortal.API\\Controllers\\PersonelController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:41:03.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Program.cs",
+              "RelativeDocumentMoniker": "ModernIKPortal.API\\Program.cs",
+              "ToolTip": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Program.cs",
+              "RelativeToolTip": "ModernIKPortal.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:35:32.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ModernIKPortal.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\appsettings.json",
+              "RelativeToolTip": "ModernIKPortal.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-25T13:32:41.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ModernIKPortal.API\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ModernIKPortal.API\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:32:12.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PuantajController.cs",
+              "DocumentMoniker": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Controllers\\PuantajController.cs",
+              "RelativeDocumentMoniker": "ModernIKPortal.API\\Controllers\\PuantajController.cs",
+              "ToolTip": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Controllers\\PuantajController.cs",
+              "RelativeToolTip": "ModernIKPortal.API\\Controllers\\PuantajController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T14:27:59.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PuantajKaydi.cs",
+              "DocumentMoniker": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Models\\PuantajKaydi.cs",
+              "RelativeDocumentMoniker": "ModernIKPortal.API\\Models\\PuantajKaydi.cs",
+              "ToolTip": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Models\\PuantajKaydi.cs",
+              "RelativeToolTip": "ModernIKPortal.API\\Models\\PuantajKaydi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T14:27:28.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "ModernIKPortal.API\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Models\\Models.cs",
+              "RelativeToolTip": "ModernIKPortal.API\\Models\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T13:31:14.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModernIKPortal.API.csproj",
+              "DocumentMoniker": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\ModernIKPortal.API.csproj",
+              "RelativeDocumentMoniker": "ModernIKPortal.API\\ModernIKPortal.API.csproj",
+              "ToolTip": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\ModernIKPortal.API.csproj",
+              "RelativeToolTip": "ModernIKPortal.API\\ModernIKPortal.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T13:30:33.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ModernIKPortal.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ModernIKPortal.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-25T13:51:32.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pozisyon.cs",
+              "DocumentMoniker": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Models\\pozisyon.cs",
+              "RelativeDocumentMoniker": "ModernIKPortal.API\\Models\\pozisyon.cs",
+              "ToolTip": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Models\\pozisyon.cs",
+              "RelativeToolTip": "ModernIKPortal.API\\Models\\pozisyon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:15:08.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Egitim.cs",
+              "DocumentMoniker": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Models\\Egitim.cs",
+              "RelativeDocumentMoniker": "ModernIKPortal.API\\Models\\Egitim.cs",
+              "ToolTip": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\Models\\Egitim.cs",
+              "RelativeToolTip": "ModernIKPortal.API\\Models\\Egitim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:15:54.805Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
