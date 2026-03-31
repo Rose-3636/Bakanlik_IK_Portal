@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Box } from '@mui/material';
+import { Box, useMediaQuery, useTheme } from '@mui/material';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import Sidebar from './components/Sidebar';
 import Header from './components/Header';
@@ -10,26 +10,37 @@ import Bordro from './pages/Bordro';
 import IzinYonetimi from './pages/IzinYonetimi';
 import DuyuruYonetimi from './pages/DuyuruYonetimi';
 import LoginPage from './pages/LoginPage';
-
-// 1. ADIM: Hafıza merkezini (useAuth) buraya çağırdık
 import { useAuth } from './context/AuthContext'; 
 
 function App() {
-  // 2. ADIM: Artık girişi 'true/false' diye elle yazmıyoruz. 
-  // Direkt hafızadaki 'user' var mı yok mu ona bakıyoruz.
   const { user, login } = useAuth(); 
+  const theme = useTheme();
+  
+  // SİHİRLİ SATIR: Eğer ekran 900px'den küçükse (telefonsa) 'isMobile' true olur
+  const isMobile = useMediaQuery(theme.breakpoints.down('md'));
 
-  // Eğer hafızada kullanıcı yoksa (logout yapıldıysa) giriş sayfasına atar
   if (!user) {
     return <LoginPage onLogin={login} />;
   }
 
-  // Kullanıcı varsa (giriş yapıldıysa) portalı gösterir
   return (
     <BrowserRouter>
-      <Box sx={{ display: 'flex', bgcolor: '#f4f7f9', minHeight: '100vh' }}>
-        <Sidebar />
-        <Box sx={{ flexGrow: 1, ml: '280px', p: 5 }}>
+      <Box sx={{ 
+        display: 'flex', 
+        bgcolor: '#f4f7f9', 
+        minHeight: '100vh',
+        flexDirection: isMobile ? 'column' : 'row' // Telefondaysa alt alta diz
+      }}>
+        
+        {/* Mobilde yan menüyü gizliyoruz, bilgisayarda gösteriyoruz */}
+        {!isMobile && <Sidebar />}
+        
+        <Box sx={{ 
+          flexGrow: 1, 
+          ml: isMobile ? 0 : '280px', // Telefondaysa soldan boşluk bırakma!
+          p: isMobile ? 2 : 5, // Telefondaysa daha az boşluk bırak
+          width: isMobile ? '100%' : 'calc(100% - 280px)' 
+        }}>
           <Header />
           <Routes>
             <Route path="/" element={<Dashboard />} />
