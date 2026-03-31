@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\ModernIKPortal.API.csproj": {}
+    "C:\\Users\\gul.dogan\\Desktop\\AileBakanligi_IK_Portal\\ModernIKPortal.API\\ModernIKPortal.API\\ModernIKPortal.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\ModernIKPortal.API.csproj": {
+    "C:\\Users\\gul.dogan\\Desktop\\AileBakanligi_IK_Portal\\ModernIKPortal.API\\ModernIKPortal.API\\ModernIKPortal.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\ModernIKPortal.API.csproj",
+        "projectUniqueName": "C:\\Users\\gul.dogan\\Desktop\\AileBakanligi_IK_Portal\\ModernIKPortal.API\\ModernIKPortal.API\\ModernIKPortal.API.csproj",
         "projectName": "ModernIKPortal.API",
-        "projectPath": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\ModernIKPortal.API.csproj",
+        "projectPath": "C:\\Users\\gul.dogan\\Desktop\\AileBakanligi_IK_Portal\\ModernIKPortal.API\\ModernIKPortal.API\\ModernIKPortal.API.csproj",
         "packagesPath": "C:\\Users\\gul.dogan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gul.dogan\\source\\repos\\ModernIKPortal.API\\ModernIKPortal.API\\obj\\",
+        "outputPath": "C:\\Users\\gul.dogan\\Desktop\\AileBakanligi_IK_Portal\\ModernIKPortal.API\\ModernIKPortal.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
