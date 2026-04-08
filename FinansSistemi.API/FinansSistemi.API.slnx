@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FinansSistemi.API/FinansSistemi.API.csproj" />
+  <Project Path="FinansSistemi.Tests/FinansSistemi.Tests.csproj" Id="3f40210e-a70c-4a22-b760-4f42f12804db" />
+</Solution>
